@@ -1,0 +1,21 @@
+.aboutMeSect{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    height: 600px;
+    font-family: 'Crimson Text', serif;
+}
+
+.aboutMeDiv{
+    margin: 80px 20px;
+}
+
+.aboutMePara{
+    margin: 20px 220px;
+    font-size: 20px;
+    font-family: 'Crimson Text', serif;
+}
+
+.aboutMeHeader{
+    font-size: 40px;
+}
