@@ -5,3 +5,38 @@
     text-align: center;
     height: 600px;
 }
+
+.contactForm{
+    display: flex;
+    flex-direction: column;
+    margin: 60px auto;
+}
+
+.myEmail{
+    color: purple;
+    font-family: 'Crimson Text', serif;
+}
+
+.contactInput{
+    border: 2px solid purple;
+    margin: 5px;
+    border-radius: .25em;
+    font-family: 'Quicksand', sans-serif;
+    width: 300px;
+}
+
+.contactButton{
+    width: 90px;
+    height: 30px;
+    margin:5px auto;
+    background-color: #0A1626;
+    color: white;
+    border: none;
+    border-radius:.25em;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 15px;
+}
+
+.firstTwo{
+    height: 30px;
+}

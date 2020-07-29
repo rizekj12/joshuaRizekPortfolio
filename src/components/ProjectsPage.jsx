@@ -13,7 +13,7 @@ export default function ProjectsPage() {
                     image="https://i.ibb.co/M7MKHCc/Screen-Shot-2020-07-27-at-3-47-16-PM.png"
                     description="A mini-game application utilizing javascript node.js, based on Final Fantasy 7. Users are matched against randomized monsters from the moogle API."
                     siteLink="https://pages.git.generalassemb.ly/rizekj12/FinalFantasyArena/"
-                    codeLink="https://github.com/rizekj12/FinalFantasyArena"
+                    codeLink="https://git.generalassemb.ly/rizekj12/FinalFantasyArena"
                 />
                 <Project
                     name="Spork"

@@ -12,7 +12,7 @@ export default function Project(props) {
             </div>
             <div className="buttonDiv">
                     <a href={props.siteLink}>
-                        <button className="projectButton">Check the look!</button>
+                        <button className="projectButton">Check the site!</button>
                     </a>
                     <a href={props.codeLink}>
                         <button className="projectButton">Check the code!</button>
