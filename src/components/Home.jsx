@@ -5,7 +5,7 @@ export default class Home extends Component {
     render() {
         return (
             <div className="introDiv">
-                <h1 className="introText">Hi, i'm Josh!</h1>
+                <h1 className="introText">Hi, I'm Josh!</h1>
 
              
             </div>
