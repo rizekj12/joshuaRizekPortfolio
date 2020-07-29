@@ -5,7 +5,7 @@ import { Link } from "react-scroll"
 export default function Nav() {
     return (
         <div className="navDiv">
-            <h2 className="navText">Joshua J Rizek //<span> Full Stack Software Engineer</span></h2>
+            <h2 className="navText">Joshua J Rizek  <span>   Full Stack Software Engineer</span></h2>
             <nav>
                 <Link className="linkPoint contactMeLink" to='contact-me' smooth={true} duration={1000}>  CONTACT ME  </Link>
                 <p>•</p>
