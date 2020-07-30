@@ -1,0 +1,34 @@
+.skillsImg{
+    height: 120px;
+    margin: 30px;
+
+}
+
+.skillsDiv{
+    text-align: center;
+    height: 600px;
+    font-family: 'Crimson Text', serif;
+    background-color: #d7dbdf;
+    display:flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+
+.ruby{
+    height: 100px;
+}
+
+.imagesDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    /* justify-content: space-evenly; */
+}
+
+.imagesDiv2{
+    display: flex;
+    flex-direction: row;
+}

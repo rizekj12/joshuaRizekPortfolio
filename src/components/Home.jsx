@@ -5,9 +5,12 @@ export default class Home extends Component {
     render() {
         return (
             <div className="introDiv">
-                <h1 className="introText">Hi, I'm Josh!</h1>
+                <div className="textDiv">
+                    <h1 className="introText">Hi, I'm Josh! </h1>
+                    <h3 className="introText subText">Welcome to my portfolio!</h3>
+                </div>
 
-             
+
             </div>
         )
     }

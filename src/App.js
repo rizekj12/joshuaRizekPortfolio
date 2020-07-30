@@ -4,7 +4,7 @@ import AboutMe from "./components/AboutMe"
 import Nav from "./components/Nav"
 import ProjectsPage from "./components/ProjectsPage"
 import ContactMe from "./components/ContactMe"
-import {Link} from "react-scroll"
+import Skills from "./components/Skills"
 import "./App.css"
 
 export default class App extends Component {
@@ -15,6 +15,7 @@ export default class App extends Component {
         <Nav />
         <Home />
         <AboutMe />
+        <Skills />
         <ProjectsPage />
         <ContactMe />
       </div>
