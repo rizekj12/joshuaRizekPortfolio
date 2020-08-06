@@ -27,3 +27,13 @@
 .textDiv{
 margin: auto;
 }
+
+@media (max-width: 415px){
+    .introDiv{
+        width: 100%;
+    }
+    
+    .introText{
+        font-size:30px ;
+    }
+}

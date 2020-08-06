@@ -6,8 +6,8 @@ export default class Home extends Component {
         return (
             <div className="introDiv">
                 <div className="textDiv">
-                    <h1 className="introText">Hi, I'm Josh! </h1>
-                    <h3 className="introText subText">Welcome to my portfolio!</h3>
+                    <h1 className="introText">Hi, I'm Josh </h1>
+                    <h3 className="introText subText">an ambitous Software Developer!</h3>
                 </div>
 
 

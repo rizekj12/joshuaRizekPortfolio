@@ -7,7 +7,7 @@ export default function AboutMe() {
             <div className="aboutMeDiv">
                 <h1 className="aboutMeHeader">About me!</h1>
                 <p className="aboutMePara">I am software developer who loves to constantly learn and challenge myself through problem-solving. My undergraduate studies in philosophy have helped me to become a strong developer by thinking outside the box when problem solving and being capable of conceptually understanding new technical frameworks.  My passion projects consist of apps that improve mental health and developing games. On my free time I enjoy competitive gaming, mixed martial arts, and traveling! I am someone who enjoys working in diverse groups because I believe we can call learn more from each other as developers as well as people. Check out the rest of my site to see some of my work and reach out to me to work together! </p>
-            </div>
+            
             <div className="resourceDiv">
                 <a 
                     href="https://github.com/rizekj12">
@@ -24,6 +24,7 @@ export default function AboutMe() {
                             src="https://www.maryville.edu/wp-content/uploads/2015/11/Linkedin-logo-1-550x550-300x300.png" alt="Linkedin logo" 
                         />
                 </a>
+            </div>
             </div>
 
         </section>

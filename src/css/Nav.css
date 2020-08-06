@@ -21,13 +21,34 @@ nav{
 
 .linkPoint{
     padding: 10px;
+
 }
 
 .linkPoint:hover{
     color:#933255;
+
 }
 
 .resumeLink{
     text-decoration: none;
     color: black;
+}
+
+@media (max-width: 415px){
+
+    .navDiv{
+        width:auto;
+        height: auto;
+        flex-direction: column;
+        justify-content: center;
+        margin: auto;
+    }
+    .navText{
+        font-size: 15px;
+    }
+
+    .linkPoint{
+        font-size: 15px;
+    }
+
 }
