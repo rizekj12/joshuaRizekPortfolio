@@ -29,12 +29,13 @@
     .aboutMeSect{
         margin: auto;
         text-align: center;
+        height: auto;
     }
 
    .aboutMeDiv{
        margin: auto;
        width: 100%;
-       height: 130%;
+       height: 150%;
    }
     .aboutMeHeader{
         font-size: 30px;

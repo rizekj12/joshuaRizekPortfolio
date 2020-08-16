@@ -14,6 +14,7 @@ body,#root{
   /* font-family: 'Asap', sans-serif; */
   /* font-family: 'Mulish', sans-serif; */
   font-family: 'Karla', sans-serif;
+  width: 100%;
 }
 
 .App-logo {
@@ -50,3 +51,10 @@ body,#root{
     transform: rotate(360deg);
   }
 }
+
+
+/* @media (max-width: 415px){
+  body{
+    width: 100%;
+  }
+} */

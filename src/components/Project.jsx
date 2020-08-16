@@ -5,7 +5,7 @@ import "../css/Project.css"
 export default function Project(props) {
     return (
         <div className="entireDiv">
-            <h3>{props.name}</h3>
+            <h3 className="projectTitle">{props.name}</h3>
             <div className="indProjectDiv">
                 <img className="projectImg" src={props.image} alt="" />
                 <p className="projectDes">{props.description}</p>
