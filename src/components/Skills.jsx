@@ -16,9 +16,10 @@ export default function Skills() {
 
             <div className="imagesDiv2">
                     <img className="skillsImg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png" alt="css logo" />
-
                     <img className="skillsImg ruby" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/768px-Ruby_logo.svg.png" alt="ruby logo" />
                     <img className="skillsImg" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" alt="ruby on rails logo" />
+                    <img className="skillsImg" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt=""/>
+                    <img className="skillsImg mongo" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt=""/>
                 </div>
 
         </div>
