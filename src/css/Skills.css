@@ -1,7 +1,6 @@
 .skillsImg{
-    height: 120px;
+    height: 80px;
     margin: 30px;
-
 }
 
 .skillsDiv{
@@ -16,7 +15,7 @@
 }
 
 .ruby{
-    height: 100px;
+    height: 80px;
 }
 
 .imagesDiv{
@@ -25,7 +24,6 @@
     justify-content: center;
     align-items: center;
     margin-top: 100px;
-    /* justify-content: space-evenly; */
 }
 
 .imagesDiv2{
@@ -34,7 +32,7 @@
 }
 
 .mongo{
-    height: 200px;
+    height: 180px;
 }
 
 @media (max-width: 415px){

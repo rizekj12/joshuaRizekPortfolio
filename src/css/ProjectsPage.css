@@ -1,8 +1,8 @@
 .projectsDiv{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     text-align: center;
-    height: 600px;
+    height: auto;
     background-color: #6d233e;
     color: white;
 }
@@ -15,6 +15,7 @@
 .projectsSect{
     background-color: #6d233e;
     display: flex;
+    height: auto;
     flex-direction: column;
     text-align: center;
     align-content: center;
@@ -37,6 +38,19 @@
     background-color: #6d233e;
     transition:.30s;
     border: 1px solid white;
+}
+
+.topRow{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+
+.bottomRow{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    margin-bottom: 30px;
 }
 
 @media (max-width: 415px){

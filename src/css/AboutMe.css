@@ -23,8 +23,14 @@
 .otherResource{
     height: 75px;
     margin: 10px 40px;
+    position: relative;
+    top: 0;
+    transition: top ease 0.5s;
 }
 
+.otherResource:hover{
+    top: -15px;
+}
 @media (max-width: 415px){
     .aboutMeSect{
         margin: auto;

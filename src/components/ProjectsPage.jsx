@@ -5,8 +5,17 @@ import Project from "./Project"
 export default function ProjectsPage() {
     return (
         <section className="projectsSect" id="projects">
-           <h1 className="projectsText">Projects</h1>
+           <h1 className="projectsText">Passion Projects</h1>
             <div className="projectsDiv">
+
+                <div className="topRow">
+                <Project
+                    name="My Hero Academia Encyclopedia"
+                    image="https://i.ibb.co/zNpxHVS/Screen-Shot-2020-09-21-at-7-11-06-PM.png"
+                    description="A Fullstack Encyclopedia application from one of my favorite shows! This application uses a React.Js front-end with an Express and MongoDB back-end. "
+                    siteLink="http://my-hero-encyc.surge.sh/"
+                    codeLink="https://github.com/rizekj12/MyHeroAcademiaAPI"
+                />
                
                 <Project
                     name="Final Fantasy Arena"
@@ -15,6 +24,10 @@ export default function ProjectsPage() {
                     siteLink="https://pages.git.generalassemb.ly/rizekj12/FinalFantasyArena/"
                     codeLink="https://git.generalassemb.ly/rizekj12/FinalFantasyArena"
                 />
+
+                </div>
+
+                <div className="bottomRow">
                 <Project
                     name="Spork"
                     image="https://i.ibb.co/rFwkb2X/Screen-Shot-2020-07-27-at-3-49-04-PM.png"
@@ -36,6 +49,7 @@ export default function ProjectsPage() {
                     siteLink="https://un-bored-me.netlify.app/"
                     codeLink="https://github.com/rizekj12/unboredMe"
                 />
+                </div>
             </div>
         </section>
     )
