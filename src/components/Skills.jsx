@@ -13,7 +13,6 @@ export default function Skills() {
                 <img className="skillsImg" src="http://iamcolinmalcolm.surge.sh/static/media/postgresql.9474528e.svg" alt="postgresql"/>
                 <img className="skillsImg" src="http://iamcolinmalcolm.surge.sh/static/media/git.8e4cd62e.svg" alt="git"/>
             </div>
-
             <div className="imagesDiv2">
                     <img className="skillsImg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png" alt="css logo" />
                     <img className="skillsImg ruby" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/768px-Ruby_logo.svg.png" alt="ruby logo" />
