@@ -1,5 +1,6 @@
 .navDiv{
     background-color: #f1f4f7;
+    z-index:1;
     display: flex;
     flex-direction: row;
     align-content: center;
