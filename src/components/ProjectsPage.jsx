@@ -1,6 +1,7 @@
 import React from 'react'
 import '../css/ProjectsPage.css'
 import Project from "./Project"
+import whatToWear from "../images/What-to-Wear.png"
 
 export default function ProjectsPage() {
     return (
@@ -9,6 +10,14 @@ export default function ProjectsPage() {
             <div className="projectsDiv">
 
                 <div className="topRow">
+                <Project
+                    name="What-to-Wear"
+                    image={whatToWear}
+                    description="A Front-End React.Js weather app that renders data from the OpenWeatherAPI. This app tells users what they should wear for the day according to the local weather! "
+                    siteLink="http://what-to-wear.surge.sh/"
+                    codeLink="https://github.com/rizekj12/What-to-Wear"
+                />
+
                 <Project
                     name="My Hero Academia Encyclopedia"
                     image="https://i.ibb.co/zNpxHVS/Screen-Shot-2020-09-21-at-7-11-06-PM.png"
