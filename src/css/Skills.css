@@ -2,10 +2,12 @@
     height: 80px;
     margin: 30px;
 }
-
+.skillsText{
+margin-top: 45px;
+}
 .skillsDiv{
     text-align: center;
-    height: 600px;
+    height: 650px;
     font-family: 'Crimson Text', serif;
     background-color: #d7dbdf;
     display:flex;
@@ -23,7 +25,7 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    margin-top: 100px;
+    margin-top: 70px;
 }
 
 .imagesDiv2{

@@ -5,8 +5,21 @@ export default function AboutMe() {
     return (
         <section className="aboutMeSect" id="about-me">
             <div className="aboutMeDiv">
-                <h1 className="aboutMeHeader">About me!</h1>
-                <p className="aboutMePara">I am software developer who loves to constantly learn and challenge myself through problem-solving. My undergraduate studies in philosophy have helped me to become a strong developer by thinking outside the box when problem solving and being capable of conceptually understanding new technical frameworks. My passion projects consist of apps that improve mental health and developing games. In my free time I enjoy competitive gaming, mixed martial arts, and traveling! I am someone who enjoys working in diverse groups because I believe we can call learn more from each other as developers as well as people. Check out the rest of my site to see some of my work and reach out to me to work together! </p>
+                <h1 className="aboutMeHeader">More about myself</h1>
+                <p className="aboutMePara">
+                I am a Software Engineer who is passionate about the growing dynamic nature of the tech
+                industry along with a desire to solve practical problems. I have a background in Philosophy
+                from my undergraduate studies which has helped me problem solve in unique ways and quickly
+                learn new technologies on a deeper conceptual level. While I have experience working with back-end
+                frameworks and building full-stack projects, I have grown to enjoy front-end development the most.
+                What makes me so passionate about Software Engineering is the endless growth potential within the field.
+                As someone who considers himself a life-long learner, I enjoy the fact that there are always new 
+                frameworks, languages and technical concepts to learn. In my free time when I’m not coding I enjoy 
+                creating art, competitive gaming, hiking, fitness, and traveling. I am someone who appreciates working
+                with a diverse team where I can learn from others professional experience because it is my belief that
+                we do not get anywhere in life without learning from others. Please feel free to check out the rest of
+                my site to see some of my passion projects and reach out to me if you are interested in working together! 
+                </p>
             
             <div className="resourceDiv">
                 <a 
