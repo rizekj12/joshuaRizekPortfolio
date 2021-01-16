@@ -2,6 +2,7 @@ import React from 'react'
 import '../css/ProjectsPage.css'
 import Project from "./Project"
 import whatToWear from "../images/What-to-Wear.png"
+import ThreeAngelsPainting from "../images/ThreeAngelsPainting.png"
 
 export default function ProjectsPage() {
     return (
@@ -25,13 +26,13 @@ export default function ProjectsPage() {
                     siteLink="http://my-hero-encyc.surge.sh/"
                     codeLink="https://github.com/rizekj12/MyHeroAcademiaAPI"
                 />
-               
+
                 <Project
-                    name="Final Fantasy Arena"
-                    image="https://i.ibb.co/M7MKHCc/Screen-Shot-2020-07-27-at-3-47-16-PM.png"
-                    description="A mini-game application utilizing javascript node.js, based on Final Fantasy 7. Users are matched against randomized monsters from the moogle API."
-                    siteLink="https://pages.git.generalassemb.ly/rizekj12/FinalFantasyArena/"
-                    codeLink="https://git.generalassemb.ly/rizekj12/FinalFantasyArena"
+                    name="Three Angels Painting Business profile"
+                    image={ThreeAngelsPainting}
+                    description="A collaborative freelance project created with React.JS. This was a business website created for the Three Angels Painting company located in Macon County, NC "
+                    siteLink="https://threeangelspainting.surge.sh/"
+                    codeLink="https://github.com/rizekj12/ThreeAngelsPainting"
                 />
 
                 </div>
