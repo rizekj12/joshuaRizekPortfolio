@@ -7,18 +7,14 @@ export default function AboutMe() {
             <div className="aboutMeDiv">
                 <h1 className="aboutMeHeader">More about myself</h1>
                 <p className="aboutMePara">
-                I am a Software Engineer who is passionate about the growing dynamic nature of the tech
-                industry along with a desire to solve practical problems. I have a background in Philosophy
-                from my undergraduate studies which has helped me problem solve in unique ways and quickly
-                learn new technologies on a deeper conceptual level. While I have experience working with back-end
-                frameworks and building full-stack projects, I have grown to enjoy front-end development the most.
-                What makes me so passionate about Software Engineering is the endless growth potential within the field.
-                As someone who considers himself a life-long learner, I enjoy the fact that there are always new 
-                frameworks, languages and technical concepts to learn. In my free time when I’m not coding I enjoy 
-                creating art, competitive gaming, hiking, fitness, and traveling. I am someone who appreciates working
-                with a diverse team where I can learn from others professional experience because it is my belief that
-                we do not get anywhere in life without learning from others. Please feel free to check out the rest of
-                my site to see some of my passion projects and reach out to me if you are interested in working together! 
+                I am a software engineer who's experience revolves around primarily DevOps and Front-end development work, 
+                although I also have full stack experience! So far having a little over of experience in the tech industry
+                I continue to love what I do. I enjoy constantly challenging myself with new problems to solve and more tech 
+                stacks to learn. I specialized in technologies such as Ansible, Jenkins, Azure fundamentals, Javascript, 
+                React.JS and more. On my free time you can find me exploring some trails or mountains with my dog, Traveling 
+                and/ or painting. I am always open to helping less experienced developers as well as collaborating with more
+                experienced ones. If you want to know more about me, please feel free to reach out on LinkedIn, look through my 
+                resume and/or portfolio listed below. Thanks for reading my bio!
                 </p>
             
             <div className="resourceDiv">
