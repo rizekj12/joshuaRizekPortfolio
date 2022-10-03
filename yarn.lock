@@ -6587,9 +6587,9 @@ node-sass@^7.0.0:
     stdout-stream "^1.4.0"
     "true-case-path" "^1.0.2"
 
-nodemailer@^6.4.10:
-  version "6.4.10"
-  resolved "https://registry.npmjs.org/nodemailer/-/nodemailer-6.4.10.tgz"
+nodemailer@^6.6.1:
+  version "6.6.1"
+  resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-6.6.1.tgz#2a05fbf205b897d71bf43884167b5d4d3bd01b99"
 
 nopt@^5.0.0:
   version "5.0.0"
