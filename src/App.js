@@ -11,14 +11,14 @@ export default class App extends Component {
   render() {
     return (
       <>
-      <div>
-        <Nav />
-        <Home />
-        <AboutMe />
-        <Skills />
-        <ProjectsPage />
-        <ContactMe />
-      </div>
+        <div>
+          <Nav />
+          <Home />
+          <AboutMe />
+          <Skills />
+          <ProjectsPage />
+          <ContactMe />
+        </div>
       </>
     )
   }
