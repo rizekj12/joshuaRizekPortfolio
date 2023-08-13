@@ -1,0 +1,55 @@
+.skillsImg{
+    height: 80px;
+    margin: 30px;
+}
+.skillsText{
+margin-top: 45px;
+}
+.skillsDiv{
+    text-align: center;
+    height: 650px;
+    font-family: 'Crimson Text', serif;
+    background-color: #d7dbdf;
+    display:flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+
+.ruby{
+    height: 80px;
+}
+
+.imagesDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+}
+
+.imagesDiv2{
+    display: flex;
+    flex-direction: row;
+}
+
+.mongo{
+    height: 180px;
+}
+
+@media (max-width: 415px){
+    .skillsImg{
+        height: 60px;
+        margin: 15px;
+    
+    } 
+
+    .skillsDiv{
+        height: 475px;
+    }
+
+    .imagesDiv{
+        margin-top: 60px;
+        margin-bottom: 30px;
+    }
+}

@@ -1,0 +1,68 @@
+.aboutMeSect{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    /* height: 650px; */
+    font-family: 'Crimson Text', serif;
+}
+
+.aboutMeDiv{
+    margin: 30px 20px;
+}
+
+.aboutMePara{
+    margin: 20px 220px;
+    font-size: 22px;
+    font-family: 'Crimson Text', serif;
+}
+
+.aboutMeHeader{
+    font-size: 40px;
+}
+
+.otherResource{
+    height: 75px;
+    margin: 10px 40px;
+    position: relative;
+    top: 0;
+    transition: top ease 0.5s;
+}
+
+.otherResource:hover{
+    top: -15px;
+}
+@media (max-width: 415px){
+    .aboutMeSect{
+        margin: auto;
+        text-align: center;
+        height: auto;
+    }
+
+   .aboutMeDiv{
+       margin: auto;
+       width: 100%;
+       height: 150%;
+   }
+    .aboutMeHeader{
+        font-size: 30px;
+    }
+
+    .aboutMePara{
+        margin: auto;
+        font-size: 20px;
+    }
+
+   
+    .resourceDiv{
+        margin: auto;
+        position: relative;
+        
+    }
+    .aboutMeDiv{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+}
